@@ -1,0 +1,18 @@
+[
+  {
+    "employee_id": 1,
+    "start_date": "12-2-2018",
+    "end_date": "12/04/2023",
+    "job_id": 1,
+    "department_id": 2,
+    "location": null
+  },
+  {
+    "employee_id": 2,
+    "start_date": "15-5-2018",
+    "end_date": "12/02/2022",
+    "job_id": 1,
+    "department_id": 2,
+    "location": null
+  }
+]
